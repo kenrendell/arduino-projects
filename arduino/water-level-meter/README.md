@@ -6,4 +6,4 @@
 
 ## Demo
 
-[](https://www.youtube.com/embed/LV0RpMmX5oc)
+[![Watch the video](https://img.youtube.com/vi/LV0RpMmX5oc/0.jpg)](https://www.youtube.com/embed/LV0RpMmX5oc)
