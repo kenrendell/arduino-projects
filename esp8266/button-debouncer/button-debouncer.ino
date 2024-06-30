@@ -9,11 +9,11 @@ uint32_t edge_positive_count = 0;
 uint32_t edge_negative_count = 0;
 
 typedef struct {
-    uint8_t state;
-    uint8_t previous_state;
-    uint8_t edge; // change state
-    uint8_t edge_positive; // rising edge
-    uint8_t edge_negative; // falling edge
+	uint8_t state;
+	uint8_t previous_state;
+	uint8_t edge; // change state
+	uint8_t edge_positive; // rising edge
+	uint8_t edge_negative; // falling edge
 	uint32_t previous_time;
 } edge_t;
 
