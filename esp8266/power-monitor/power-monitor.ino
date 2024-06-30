@@ -264,6 +264,8 @@ void measure() {
 		power += get_power(voltage_samples, current_samples, samples);
 	}
 
+	// NOTE: To improve the accuracy, use the sampling theorem. (Not implemented)
+
 	voltage /= count;
 	current /= count;
 	power /= count;
