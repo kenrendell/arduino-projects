@@ -6,4 +6,4 @@
 
 ## Demo
 
-[](https://github.com/kenrendell/arduino-projects/raw/main/arduino/accordion-lamp/.data/accordion-lamp-demo.mp4)
+[](https://youtu.be/V6JwJJqUe5M)
